@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Add a default marker</title>
+    <meta
+      name="viewport"
+      content="initial-scale=1,maximum-scale=1,user-scalable=no"
+    />
+    <script src="https://api.mapbox.com/mapbox.js/v3.3.1/mapbox.js"></script>
+    <link
+      href="https://api.mapbox.com/mapbox.js/v3.3.1/mapbox.css"
+      rel="stylesheet"
+    />
+    <link href="./styles.css" rel="stylesheet" />
+  </head>
+
+  <body>
+    <div id="map"></div>
+    <div class="map-overlay top">
+      <button id="btn-route" onclick="run()">
+        Show the status of the route 1 buses
+      </button>
+      <div id="buses-info">
+        Buses running now: <br>
+        Buses between Harvard & MIT: 
+      </div>
+    </div>
+
+    <script src="./mapanimation.js"></script>
+  </body>
+</html>

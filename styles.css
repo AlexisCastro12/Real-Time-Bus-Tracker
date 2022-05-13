@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+.map-overlay {
+  position: absolute;
+  left: 0;
+  padding: 10px;
+}
+
+#btn-route {
+  font-size: 2em;
+}
+
+#buses-info{
+  background-color: #154360;
+  color: #D0D3D4;
+  padding: 1em 1em;
+  width: 55%;
+  font-size: 1.25em;
+}
