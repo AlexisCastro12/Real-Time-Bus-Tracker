@@ -73,7 +73,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 $ git clone https://github.com/AlexisCastro12/Real-Time-Bus-Tracker
 
 # Access
-$ cd ejercicio-rtbt
+$ cd Real-Time-Bus-Tracker
 
 # Install dependencies
 $ yarn
