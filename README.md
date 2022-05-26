@@ -22,7 +22,7 @@
   <a href="#sparkles-roadmap">Roadmap</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#wrench-suport">Support</a> &#xa0; | &#xa0;
+  <a href="#wrench-support">Support</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/AlexisCastro12" target="_blank">Author</a>
 </p>
