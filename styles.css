@@ -10,7 +10,7 @@ body {
 }
 .map-overlay {
   position: absolute;
-  left: 0;
+  margin-left: 2em;
   padding: 10px;
 }
 

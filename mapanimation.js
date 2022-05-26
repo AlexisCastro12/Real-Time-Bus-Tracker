@@ -22,7 +22,7 @@ const busStops = [
 
 //Create map
 var map = new L.mapbox.map("map")
-  .setView([42.365554, -71.104081], 14.5)
+  .setView([42.366554, -71.114081], 14.5)
   .addLayer(L.mapbox.styleLayer("mapbox://styles/mapbox/streets-v11"));
 
 //Funtion to put the Bus Stops Between MIT & Harvard
