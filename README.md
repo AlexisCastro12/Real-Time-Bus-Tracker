@@ -73,7 +73,6 @@ Press the 'show the status of the route 1 buses' button to start monitoring the 
 
 If needed, zoom in or out on the map using the '+' or '-' buttons.
 
-<!--This section is complete-->
 ## :wrench: Support ##
 
 If you have problems with the project or need additional information, please contact me at <alexis1204.aacs@gmail.com> :e-mail:.
