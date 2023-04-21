@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="#dart-description">Description</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-roadmap">Roadmap</a> &#xa0; | &#xa0;
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#wrench-support">Support</a> &#xa0; | &#xa0;
@@ -33,7 +33,7 @@
 
 Real Time Bus Tracker is an application that uses languages such as HTML, CSS, and JS, tools such as APIs, and concepts such as asynchronous programming to build a map where you can view the stops and buses that run between MIT and Harvard University. The incredible thing about this application is that the status of the route can be monitored at the time the user wants and the information displayed will correspond to real-time data to support the mobility process of people who want to go from one school to another.
 
-## :sparkles: Roadmap
+## :sparkles: Features
 
 The characteristics that this project currently has are:
 
